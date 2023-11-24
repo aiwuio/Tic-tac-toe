@@ -1,6 +1,4 @@
-TicTacToe-Flask
-Lightweight tic tac toe game using Flask framework and Angular.  AI uses the minimax algorithm to calculate moves.  Good luck
-trying to win.
+Tic-tac-toe [1] is a logical game between two opponents on a square field of 3 by 3 cells or larger (up to an “endless field”). One of the players plays with "crosses", the second - with "toes". The traditional Chinese game (Gomoku) uses black and white stones.
 
 ## Install
 ```
