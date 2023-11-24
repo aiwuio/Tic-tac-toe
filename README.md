@@ -2,7 +2,9 @@ Tic-tac-toe [1] is a logical game between two opponents on a square field of 3 b
 
 ## Install
 ```
-pip install -r requirements.txt
+pip3 install flask
+
+py -m venv venv 
 ```
 
 ## Launch
